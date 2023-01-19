@@ -1,6 +1,8 @@
 # SimpleKafkaConsumer
 Simple Kafka Consumer to read messages from beginning
 
+C# .NET 6.0 Console
+
 ```
 using Confluent.Kafka;
 var NUM_PARTITIONS = 31;
